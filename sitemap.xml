@@ -20,6 +20,21 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://blog.basebb.com/2013/</loc>
+  <lastmod>2013-07-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/2013/index.html</loc>
+  <lastmod>2013-07-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/404.html</loc>
+  <lastmod>2013-07-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://blog.basebb.com/archive.html</loc>
   <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
@@ -30,12 +45,22 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://blog.basebb.com/categories/chromecha-jian.html</loc>
+  <lastmod>2013-07-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://blog.basebb.com/categories/index.html</loc>
   <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/categories/ji-ai-sheng-jing.html</loc>
+  <lastmod>2013-07-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/kai-yuan.html</loc>
   <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
@@ -80,7 +105,17 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://blog.basebb.com/posts/basebb-chrome-plugin.html</loc>
+  <lastmod>2013-07-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://blog.basebb.com/posts/basebb-web.html</loc>
+  <lastmod>2013-07-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/posts/basebible-chrome-plugin.html</loc>
   <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
