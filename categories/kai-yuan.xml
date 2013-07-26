@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>基爱博客 (开源)</title><link>http://blog.basebb.com</link><description>基爱-在基督里彼此相爱！</description><lastBuildDate>Fri, 26 Jul 2013 23:43:57 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>开源：基爱圣经--Chrome插件</title><link>http://blog.basebb.com/posts/basebible-chrome-plugin.html</link><description>&lt;p&gt;&lt;strong&gt;基爱圣经Chrome插件&lt;/strong&gt;是一款帮助您方便地查考圣经，亲近神，打好根基的工具。开发完成已经一年多了，因为当时没有国际信用卡，所以没有放到谷歌的应用市场里面，一直都是自己在用，感觉用起来还不错，所以决定开源。有关基爱圣经Chrome插件的功能和使用方式见：&lt;a href="https://github.com/basebb/basebible-chrome-plugin" target="_blank"&gt;基爱圣经Chrome插件的github开源项目&lt;/a&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>基爱博客 (开源)</title><link>http://blog.basebb.com</link><description>基爱-在基督里彼此相爱！</description><lastBuildDate>Fri, 26 Jul 2013 23:57:02 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>开源：基爱圣经--Chrome插件</title><link>http://blog.basebb.com/posts/basebible-chrome-plugin.html</link><description>&lt;p&gt;&lt;strong&gt;基爱圣经Chrome插件&lt;/strong&gt;是一款帮助您方便地查考圣经，亲近神，打好根基的工具。开发完成已经一年多了，因为当时没有国际信用卡，所以没有放到谷歌的应用市场里面，一直都是自己在用，感觉用起来还不错，所以决定开源。有关基爱圣经Chrome插件的功能和使用方式见：&lt;a href="https://github.com/basebb/basebible-chrome-plugin" target="_blank"&gt;基爱圣经Chrome插件的github开源项目&lt;/a&gt;。&lt;/p&gt;
 &lt;h3&gt;功能特性&lt;/h3&gt;
 &lt;ul&gt;&lt;li&gt;对比功能，方便查考圣经不同版本所表示的意思，有利于更准确地理解圣经经文。&lt;/li&gt;
 &lt;li&gt;搜索功能，针对不同版本的圣经的搜索，方便搜索圣经经文。&lt;/li&gt;
@@ -10,7 +10,7 @@
 &lt;p&gt;&lt;img src="/assets/image/basebible-chrome.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="/assets/image/basebible-chrome1.png"&gt;&lt;/p&gt;
 &lt;h3&gt;安装方法&lt;/h3&gt;
-&lt;ul&gt;&lt;li&gt;从github下载&lt;a href="https://github.com/basebb/basebible-chrome-plugin/archive/master.zip"&gt;&lt;code&gt;zip安装包&lt;/code&gt;&lt;/a&gt;，或者clone源代码:&lt;code&gt;git clone git@github.com:basebb/basebible-chrome-plugin.git&lt;/code&gt;;&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;从github下载&lt;a href="https://github.com/basebb/basebible-chrome-plugin/archive/master.zip"&gt;&lt;code&gt;zip安装包&lt;/code&gt;&lt;/a&gt;并解压缩，或者clone源代码:&lt;code&gt;git clone git@github.com:basebb/basebible-chrome-plugin.git&lt;/code&gt;;&lt;/li&gt;
 &lt;li&gt;在地址栏输入&lt;code&gt;chrome://extensions/&lt;/code&gt;;&lt;/li&gt;
 &lt;li&gt;选中&lt;code&gt;开发者模式&lt;/code&gt;;&lt;/li&gt;
 &lt;li&gt;点击&lt;code&gt;加载正在开发的扩展程序...&lt;/code&gt;图标;&lt;/li&gt;

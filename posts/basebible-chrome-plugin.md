@@ -25,7 +25,7 @@
 
 ## 安装方法
 
-- 从github下载<a href="https://github.com/basebb/basebible-chrome-plugin/archive/master.zip">`zip安装包`</a>，或者clone源代码:`git clone git@github.com:basebb/basebible-chrome-plugin.git`;
+- 从github下载<a href="https://github.com/basebb/basebible-chrome-plugin/archive/master.zip">`zip安装包`</a>并解压缩，或者clone源代码:`git clone git@github.com:basebb/basebible-chrome-plugin.git`;
 - 在地址栏输入`chrome://extensions/`;
 - 选中`开发者模式`;
 - 点击`加载正在开发的扩展程序...`图标;
