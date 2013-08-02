@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>基爱博客</title><link>http://blog.basebb.com</link><description>基爱-在基督里彼此相爱！</description><lastBuildDate>Sat, 27 Jul 2013 00:19:02 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>开源：基爱圣经--Chrome插件</title><link>http://blog.basebb.com/posts/basebible-chrome-plugin.html</link><description>&lt;p&gt;&lt;strong&gt;基爱圣经Chrome插件&lt;/strong&gt;是一款帮助您方便地查考圣经，亲近神，打好根基的工具。开发完成已经一年多了，因为当时没有国际信用卡，所以没有放到谷歌的应用市场里面，一直都是自己在用，感觉用起来还不错，所以决定开源。有关基爱圣经Chrome插件的功能和使用方式见：&lt;a href="https://github.com/basebb/basebible-chrome-plugin" target="_blank"&gt;基爱圣经Chrome插件的github开源项目&lt;/a&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>基爱博客</title><link>http://blog.basebb.com</link><description>基爱-在基督里彼此相爱！</description><lastBuildDate>Thu, 01 Aug 2013 12:32:08 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>开源：基爱圣经--Chrome插件</title><link>http://blog.basebb.com/posts/basebible-chrome-plugin.html</link><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;基爱圣经Chrome插件&lt;/strong&gt;是一款帮助您方便地查考圣经，亲近神，打好根基的工具。开发完成已经一年多了，因为当时没有国际信用卡，所以没有放到谷歌的应用市场里面，一直都是自己在用，感觉用起来还不错，所以决定开源。有关基爱圣经Chrome插件的功能和使用方式见：&lt;a href="https://github.com/basebb/basebible-chrome-plugin" target="_blank"&gt;基爱圣经Chrome插件的github开源项目&lt;/a&gt;。&lt;/p&gt;
 &lt;h3&gt;功能特性&lt;/h3&gt;
 &lt;ul&gt;&lt;li&gt;对比功能，方便查考圣经不同版本所表示的意思，有利于更准确地理解圣经经文。&lt;/li&gt;
 &lt;li&gt;搜索功能，针对不同版本的圣经的搜索，方便搜索圣经经文。&lt;/li&gt;
 &lt;li&gt;书签功能，当您需要收藏当前页面的经文时，您可以很方便去点击右上角的五角星图标来收藏当前页为书签。&lt;/li&gt;
 &lt;li&gt;高亮功能，点击经文的章节数字可以选中经文，然后在选中对话框中选择要高亮的颜色。&lt;/li&gt;
 &lt;li&gt;笔记功能，你可以在选中的经文上做笔记或者灵修。&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;参考截图&lt;/h3&gt;
-&lt;p&gt;&lt;img src="/assets/image/basebible-chrome.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="/assets/image/basebible-chrome1.png"&gt;&lt;/p&gt;
-&lt;h3&gt;安装方法&lt;/h3&gt;
-&lt;ul&gt;&lt;li&gt;从github下载&lt;a href="https://github.com/basebb/basebible-chrome-plugin/archive/master.zip"&gt;&lt;code&gt;zip安装包&lt;/code&gt;&lt;/a&gt;并解压缩，或者clone源代码:&lt;code&gt;git clone git@github.com:basebb/basebible-chrome-plugin.git&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;在地址栏输入&lt;code&gt;chrome://extensions/&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;选中&lt;code&gt;开发者模式&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;点击&lt;code&gt;加载正在开发的扩展程序...&lt;/code&gt;图标;&lt;/li&gt;
-&lt;li&gt;选中&lt;code&gt;src&lt;/code&gt;文件夹;&lt;/li&gt;
-&lt;li&gt;点击&lt;code&gt;确定&lt;/code&gt;就完成了安装。&lt;/li&gt;
-&lt;/ul&gt;</description><category>开源</category><category>基爱圣经</category><category>Chrome插件</category><guid>http://blog.basebb.com/posts/basebible-chrome-plugin.html</guid><pubDate>Mon, 01 Jul 2013 21:57:54 GMT</pubDate></item><item><title>基爱圣经网络在线版发布</title><link>http://blog.basebb.com/posts/basebb-web.html</link><description>&lt;p&gt;基爱圣经是帮助您方便地查考圣经，亲近神，打好根基的工具。&lt;/p&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href="/posts/basebible-chrome-plugin.html"&gt;更多...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>开源</category><category>基爱圣经</category><category>Chrome插件</category><guid>http://blog.basebb.com/posts/basebible-chrome-plugin.html</guid><pubDate>Mon, 01 Jul 2013 21:57:54 GMT</pubDate></item><item><title>Nikola: 静态博客A.K.A引擎，我是怎样创建Shisaa.jp</title><link>http://blog.basebb.com/posts/nikola-web.html</link><description>&lt;div&gt;&lt;h3&gt;写在前面的话&lt;/h3&gt;
+&lt;p&gt;当我在Google搜索用git做博客的时候我看到github提供了免费静态页面服务，而且提供Jekyll工具，允许用户用轻量级标记语言（比如Markdown）来写文章，然后生成博客页面。同类的工具还有Octopress。但用的是Ruby语言，在windows下安装环境特别麻烦。因我比较喜欢用Python，再继续搜索，看到了Pelican，只支持Python2.7以上版本，把本地的Python版本更新到2.7版本，好不容易安装好了Pelican环境，但发现Pelican用Makefile来管理项目，而Makefile在Windows下就是一个恶梦。最后看到了Nikola，按照官方文档很快就上手了，而且默认的样式还是特好看的，所以就最终选择了Nikola来建立静态博客。&lt;/p&gt;
+&lt;p&gt;在Nikola的有一篇文章&lt;a href="http://shisaa.jp/postset/nikola-web.html" title="Goes from installing to developing a custom theme."&gt;Tutorial by Tim van der Linden&lt;/a&gt;，正好解决了我对Nikola的一些问题，为了日后查阅方便，也为了能让更多母语是中文的网络爱好者认识Nikola，故翻译了这篇文章。&lt;/p&gt;
+&lt;hr&gt;&lt;h3&gt;前言&lt;/h3&gt;
+&lt;p&gt;首先，非常感谢Nikola创作者Roberto Alsina，给这篇文章&lt;a href="http://nikola.ralsina.com.ar/blog/new-nikola-tutorial.html" title="基于Nikola建立博客shisaa.jp"&gt;很高的评价&lt;/a&gt;，并将其嵌入到Nikola文档中！&lt;/p&gt;
+&lt;p&gt;当我设计Shisaa.jp的时候我花一些时间思考用怎么样的“后端”。什么样的系统建站...使用CMS吗？
+我使用Drupal有丰富的经验，这可能是我的首选......但熟悉Drupal的，也知道一些难以忽视的事实：&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Drupal是用PHP编写的，这不是我所向往的编程语言。&lt;/li&gt;
+&lt;li&gt;Drupal有很强大的工具，但运行会慢得像蜗牛，这是一个典型的多用途CMS的负担，几乎这样的框架系统都是这样。&lt;/li&gt;
+&lt;li&gt;Drupal 8即将推出，这是一个全新和充满亮点的版本，是建立另一框架之上（symfony），所以它是框架之上的框架...在正常的情况下，意味着它将变得更慢。&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;因此，不用Drupal，那用什么呢？Wordpress, Joomla...？这...永远...不可能，它们都是用PHP做后端的语言。&lt;/p&gt;
+&lt;p&gt;好，不用PHP驱动系统...我更喜欢用Python，所以可能是Plone, Pylons, Pyramid, ...？&lt;/p&gt;
+&lt;p&gt;可能……&lt;/p&gt;
+&lt;p&gt;&lt;a href="/posts/nikola-web.html"&gt;更多...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>web</category><category>python</category><category>nikola</category><guid>http://blog.basebb.com/posts/nikola-web.html</guid><pubDate>Fri, 01 Feb 2013 18:52:05 GMT</pubDate></item><item><title>基爱圣经网络在线版发布</title><link>http://blog.basebb.com/posts/basebb-web.html</link><description>&lt;div&gt;&lt;p&gt;基爱圣经是帮助您方便地查考圣经，亲近神，打好根基的工具。&lt;/p&gt;
 &lt;p&gt;圣经里耶稣用撒种的比喻告诉我们：&lt;code&gt;那落在好土里的，就是人听了道，持守在诚实善良的心里，并且忍耐着结实。(路加福音 8:15)&lt;/code&gt;
 愿这个查考圣经的工具让您更加亲近神，在耶稣基督里打好坚固的根基。&lt;/p&gt;
 &lt;h3&gt;功能特性&lt;/h3&gt;
 &lt;ul&gt;&lt;li&gt;对比功能，方便查考圣经不同版本所表示的意思，有利于更准确地理解圣经经文。&lt;/li&gt;
 &lt;li&gt;搜索功能，针对不同版本的圣经的搜索，方便搜索圣经经文。&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;参考截图&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://www.basebb.com/" title="基爱圣经网络在线版" target="_blank"&gt;&lt;img src="/assets/image/basebb-web.png"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;访问&lt;a href="http://www.basebb.com/" title="基爱圣经网络在线版" target="_blank" rel="nofollow"&gt;基爱圣经网络在线版&lt;/a&gt;&lt;/h4&gt;</description><category>基爱圣经</category><category>软件发布</category><category>网络在线</category><guid>http://blog.basebb.com/posts/basebb-web.html</guid><pubDate>Fri, 27 Jul 2012 10:11:27 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;p&gt;&lt;a href="/posts/basebb-web.html"&gt;更多...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>基爱圣经</category><category>软件发布</category><category>网络在线</category><guid>http://blog.basebb.com/posts/basebb-web.html</guid><pubDate>Fri, 27 Jul 2012 10:11:27 GMT</pubDate></item></channel></rss>

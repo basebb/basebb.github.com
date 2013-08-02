@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>基爱博客 (Chrome插件)</title><link>http://blog.basebb.com</link><description>基爱-在基督里彼此相爱！</description><lastBuildDate>Sat, 27 Jul 2013 00:19:02 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>开源：基爱圣经--Chrome插件</title><link>http://blog.basebb.com/posts/basebible-chrome-plugin.html</link><description>&lt;p&gt;&lt;strong&gt;基爱圣经Chrome插件&lt;/strong&gt;是一款帮助您方便地查考圣经，亲近神，打好根基的工具。开发完成已经一年多了，因为当时没有国际信用卡，所以没有放到谷歌的应用市场里面，一直都是自己在用，感觉用起来还不错，所以决定开源。有关基爱圣经Chrome插件的功能和使用方式见：&lt;a href="https://github.com/basebb/basebible-chrome-plugin" target="_blank"&gt;基爱圣经Chrome插件的github开源项目&lt;/a&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>基爱博客 (Chrome插件)</title><link>http://blog.basebb.com</link><description>基爱-在基督里彼此相爱！</description><lastBuildDate>Sat, 03 Aug 2013 00:56:33 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>开源：基爱圣经--Chrome插件</title><link>http://blog.basebb.com/posts/basebible-chrome-plugin.html</link><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;基爱圣经Chrome插件&lt;/strong&gt;是一款帮助您方便地查考圣经，亲近神，打好根基的工具。开发完成已经一年多了，因为当时没有国际信用卡，所以没有放到谷歌的应用市场里面，一直都是自己在用，感觉用起来还不错，所以决定开源。有关基爱圣经Chrome插件的功能和使用方式见：&lt;a href="https://github.com/basebb/basebible-chrome-plugin" target="_blank"&gt;基爱圣经Chrome插件的github开源项目&lt;/a&gt;。&lt;/p&gt;
 &lt;h3&gt;功能特性&lt;/h3&gt;
 &lt;ul&gt;&lt;li&gt;对比功能，方便查考圣经不同版本所表示的意思，有利于更准确地理解圣经经文。&lt;/li&gt;
 &lt;li&gt;搜索功能，针对不同版本的圣经的搜索，方便搜索圣经经文。&lt;/li&gt;
 &lt;li&gt;书签功能，当您需要收藏当前页面的经文时，您可以很方便去点击右上角的五角星图标来收藏当前页为书签。&lt;/li&gt;
 &lt;li&gt;高亮功能，点击经文的章节数字可以选中经文，然后在选中对话框中选择要高亮的颜色。&lt;/li&gt;
 &lt;li&gt;笔记功能，你可以在选中的经文上做笔记或者灵修。&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;参考截图&lt;/h3&gt;
-&lt;p&gt;&lt;img src="/assets/image/basebible-chrome.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="/assets/image/basebible-chrome1.png"&gt;&lt;/p&gt;
-&lt;h3&gt;安装方法&lt;/h3&gt;
-&lt;ul&gt;&lt;li&gt;从github下载&lt;a href="https://github.com/basebb/basebible-chrome-plugin/archive/master.zip"&gt;&lt;code&gt;zip安装包&lt;/code&gt;&lt;/a&gt;并解压缩，或者clone源代码:&lt;code&gt;git clone git@github.com:basebb/basebible-chrome-plugin.git&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;在地址栏输入&lt;code&gt;chrome://extensions/&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;选中&lt;code&gt;开发者模式&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;点击&lt;code&gt;加载正在开发的扩展程序...&lt;/code&gt;图标;&lt;/li&gt;
-&lt;li&gt;选中&lt;code&gt;src&lt;/code&gt;文件夹;&lt;/li&gt;
-&lt;li&gt;点击&lt;code&gt;确定&lt;/code&gt;就完成了安装。&lt;/li&gt;
-&lt;/ul&gt;</description><category>开源</category><category>基爱圣经</category><category>Chrome插件</category><guid>http://blog.basebb.com/posts/basebible-chrome-plugin.html</guid><pubDate>Mon, 01 Jul 2013 21:57:54 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;p&gt;&lt;a href="/posts/basebible-chrome-plugin.html"&gt;更多...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>开源</category><category>基爱圣经</category><category>Chrome插件</category><guid>http://blog.basebb.com/posts/basebible-chrome-plugin.html</guid><pubDate>Mon, 01 Jul 2013 21:57:54 GMT</pubDate></item></channel></rss>

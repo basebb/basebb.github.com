@@ -7,6 +7,7 @@
 .. description: 
 -->
 
+<img title="基爱Logo" src="/assets/css/ico128.png" style="float:right;margin:5px;"/>
 
 ## 为什么叫基爱呢？
 

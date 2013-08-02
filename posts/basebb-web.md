@@ -17,6 +17,8 @@
 - 对比功能，方便查考圣经不同版本所表示的意思，有利于更准确地理解圣经经文。
 - 搜索功能，针对不同版本的圣经的搜索，方便搜索圣经经文。
 
+<!-- TEASER_END -->
+
 ## 参考截图
 <a href="http://www.basebb.com/" title="基爱圣经网络在线版" target="_blank"><img src="/assets/image/basebb-web.png"/></a>
 

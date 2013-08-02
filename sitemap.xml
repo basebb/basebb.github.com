@@ -16,7 +16,7 @@
  </url>
  <url>
   <loc>http://blog.basebb.com/2012/index.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -26,7 +26,7 @@
  </url>
  <url>
   <loc>http://blog.basebb.com/2013/index.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -36,42 +36,112 @@
  </url>
  <url>
   <loc>http://blog.basebb.com/archive.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/categories/</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/2013.html</loc>
+  <lastmod>2013-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/blog.html</loc>
+  <lastmod>2013-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/bo-ke.html</loc>
+  <lastmod>2013-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/browser.html</loc>
+  <lastmod>2013-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/cef.html</loc>
+  <lastmod>2013-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/chrome.html</loc>
+  <lastmod>2013-07-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/categories/chromecha-jian.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/github-pages.html</loc>
+  <lastmod>2013-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/he-tu.html</loc>
+  <lastmod>2013-07-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/categories/index.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/categories/ji-ai-sheng-jing.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/categories/kai-yuan.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/nikola.html</loc>
+  <lastmod>2013-08-01</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/osr.html</loc>
+  <lastmod>2013-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/python.html</loc>
+  <lastmod>2013-08-01</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/categories/ruan-jian-fa-bu.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/static-site.html</loc>
+  <lastmod>2013-07-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/categories/wang-luo-zai-xian.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/web.html</loc>
+  <lastmod>2013-08-01</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/categories/webkit.html</loc>
+  <lastmod>2013-07-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -81,12 +151,12 @@
  </url>
  <url>
   <loc>http://blog.basebb.com/galleries/index.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/index.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -96,32 +166,47 @@
  </url>
  <url>
   <loc>http://blog.basebb.com/listings/hello.py.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/listings/index.html</loc>
-  <lastmod>2013-07-27</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://blog.basebb.com/posts/basebb-chrome-plugin.html</loc>
-  <lastmod>2013-07-26</lastmod>
+  <lastmod>2013-08-03</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/posts/basebb-web.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/posts/basebible-chrome-plugin.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/posts/hello-cef.html</loc>
+  <lastmod>2013-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/posts/hello-nikola.html</loc>
+  <lastmod>2013-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/posts/hello-world.html</loc>
+  <lastmod>2013-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blog.basebb.com/posts/nikola-web.html</loc>
+  <lastmod>2013-08-01</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blog.basebb.com/stories/about.html</loc>
-  <lastmod>2013-07-27</lastmod>
+  <lastmod>2013-08-03</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

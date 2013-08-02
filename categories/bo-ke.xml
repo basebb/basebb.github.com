@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>基爱博客 (博客)</title><link>http://blog.basebb.com</link><description>基爱-在基督里彼此相爱！</description><lastBuildDate>Mon, 29 Jul 2013 02:23:04 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>在GitHub上面自建博客之：Nikola</title><link>http://blog.basebb.com/posts/hello-nikola.html</link><description>&lt;div&gt;&lt;p&gt;最近不少程序员的博客搬家到了GitHub，原因差不多有两个：&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;GitHub上面写程序相关的内容，再自然不过了&lt;/li&gt;
+&lt;li&gt;不限流量，且还有300M的空间（其实就是GitHub上面免费用户的版本库大小限制）&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;GitHub Pages服务：&lt;/h3&gt;
+&lt;p&gt;已经有不少文章讲如何在GitHub上面建博客，其实这些都是使用了GitHub的Pages服务。&lt;/p&gt;
+&lt;p&gt;简单来说，Pages服务，允许用户通过创建特殊的版本库（针对用户），或创建版本库的特殊分支（针对项目），在GitHub上面建立静态页面。将静态页面上传到版本库后（就是上传HTML, JS, CSS等），就可以通过username.github.com（用户）或projectname.github.com（项目）来访问用户或者项目的页面了。&lt;/p&gt;
+&lt;p&gt;有了GitHub Pages服务，只要再配合静态页面生成工具，就能制作博客、网站了。&lt;/p&gt;
+&lt;p&gt;GitHub官方提供了工具Jekyll，允许用户用轻量级标记语言（比如Markdown）来写文章，然后生成博客页面。同类的工具还有Octopress。&lt;/p&gt;
+&lt;p&gt;但本文介绍的不是上面两个工具，而是一个名叫Nikola的静态页面、博客生成工具。&lt;/p&gt;
+&lt;h3&gt;Nikola是啥？&lt;/h3&gt;
+&lt;p&gt;Jekyll和Octopress都是Ruby写的，在决定选择哪个博客生成工具的时候，正好在学Python，于是就打算找一个Python写的博客生成工具来用~&lt;/p&gt;
+&lt;p&gt;Github上面搜索了一下，排在前面的Python博客生成系统，有Pelican，Nikola。&lt;/p&gt;
+&lt;p&gt;Nikola在介绍的时候说到了自己Fast，为了这个关键词，我决定一试！（虽然我没有跟其他工具比较过_(:з」∠)_）&lt;/p&gt;
+&lt;p&gt;PS:为啥没选择Pelican，Pelican在生成页面的时候，使用了make脚本，在Windows上面用make的话，需要MinGW，我这个典型Windows用户就放弃了（虽然我电脑上面有MinGW_(:з」∠)_）。&lt;/p&gt;
+&lt;h3&gt;Nikola安装篇&lt;/h3&gt;
+&lt;p&gt;&lt;a href="/posts/hello-nikola.html"&gt;更多...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Github Pages</category><category>Nikola</category><category>Python</category><category>blog</category><category>static site</category><category>博客</category><guid>http://blog.basebb.com/posts/hello-nikola.html</guid><pubDate>Mon, 18 Mar 2013 20:20:00 GMT</pubDate></item></channel></rss>
